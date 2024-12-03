@@ -1,1 +1,9 @@
-
+inizio
+n=1
+mentre n <= 10:
+  n1=1
+  menre n1 <= 10:
+    visualizza n*n1
+    n1+= 1
+  visualizza 
+  r +=1
